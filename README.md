@@ -1,7 +1,7 @@
 # vRP-NEOTEC
 Base vRPEX - FIVEM 2021
 # criador-base-fxserver-data
-Autor: Jurian Neo - Neotec
+Autor: Jurian Batista - Neotec
 Discord: [Neo]#7426
 # cfx-server-data
 _The data repository for Cfx.re servers_
